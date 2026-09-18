@@ -7,7 +7,9 @@ This repository contains an easy-to-use Google Colab notebook for running **Audi
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1ZJ7Y0M1238D15V49MhlkFEC4bqHFqMR9?usp=sharing)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salman02-12/Audio8-TTS-in-Google-Colab/blob/main/Audio8-TTS%20%40CoinNoin.ipynb)
+
 ---
+<img src="./thumbnail.png" width="100%" />
 
 ## ✨ Features Supported in this Notebook
 
